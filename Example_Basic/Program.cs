@@ -39,7 +39,9 @@ namespace Example_Basic
             Console.Clear();
             switch (choose)
             {
-                case  1 : Excause_01();
+                case  1 :
+                    Console.WriteLine("You're  choose [1].Excuse_01");
+                    Excause_01();
                     break;
                 default: Console.WriteLine("Please choose Excuse");
                     break;
@@ -52,7 +54,13 @@ namespace Example_Basic
 
         private static void Excause_01()
         {
-            Console.WriteLine("Hi Binh");
+            Console.WriteLine("Moi ban nhap tuoi");
+            int tuoi = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Tuoi ban vua nhap la  : "+tuoi);
+            tuoi += 2;
+            string tuoi1 = tuoi.ToString();
+            Console.WriteLine("Tuoi cua ban la  : "+tuoi1);
+            
         }
 
         #endregion
