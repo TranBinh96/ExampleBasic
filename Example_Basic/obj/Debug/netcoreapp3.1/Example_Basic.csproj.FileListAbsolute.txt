@@ -1,0 +1,14 @@
+D:\Training C#\Example_Basic\Example_Basic\bin\Debug\netcoreapp3.1\Example_Basic.exe
+D:\Training C#\Example_Basic\Example_Basic\bin\Debug\netcoreapp3.1\Example_Basic.deps.json
+D:\Training C#\Example_Basic\Example_Basic\bin\Debug\netcoreapp3.1\Example_Basic.runtimeconfig.json
+D:\Training C#\Example_Basic\Example_Basic\bin\Debug\netcoreapp3.1\Example_Basic.runtimeconfig.dev.json
+D:\Training C#\Example_Basic\Example_Basic\bin\Debug\netcoreapp3.1\Example_Basic.dll
+D:\Training C#\Example_Basic\Example_Basic\bin\Debug\netcoreapp3.1\Example_Basic.pdb
+D:\Training C#\Example_Basic\Example_Basic\obj\Debug\netcoreapp3.1\Example_Basic.csproj.AssemblyReference.cache
+D:\Training C#\Example_Basic\Example_Basic\obj\Debug\netcoreapp3.1\Example_Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training C#\Example_Basic\Example_Basic\obj\Debug\netcoreapp3.1\Example_Basic.AssemblyInfoInputs.cache
+D:\Training C#\Example_Basic\Example_Basic\obj\Debug\netcoreapp3.1\Example_Basic.AssemblyInfo.cs
+D:\Training C#\Example_Basic\Example_Basic\obj\Debug\netcoreapp3.1\Example_Basic.csproj.CoreCompileInputs.cache
+D:\Training C#\Example_Basic\Example_Basic\obj\Debug\netcoreapp3.1\Example_Basic.dll
+D:\Training C#\Example_Basic\Example_Basic\obj\Debug\netcoreapp3.1\Example_Basic.pdb
+D:\Training C#\Example_Basic\Example_Basic\obj\Debug\netcoreapp3.1\Example_Basic.genruntimeconfig.cache
