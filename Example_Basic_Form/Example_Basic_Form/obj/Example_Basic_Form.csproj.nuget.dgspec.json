@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training C#\\ExampleBasic\\Example_Basic\\Example_Basic.csproj": {}
+    "D:\\Training C#\\Example_Basic\\Example_Basic_Form\\Example_Basic_Form\\Example_Basic_Form.csproj": {}
   },
   "projects": {
-    "D:\\Training C#\\ExampleBasic\\Example_Basic\\Example_Basic.csproj": {
+    "D:\\Training C#\\Example_Basic\\Example_Basic_Form\\Example_Basic_Form\\Example_Basic_Form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training C#\\ExampleBasic\\Example_Basic\\Example_Basic.csproj",
-        "projectName": "Example_Basic",
-        "projectPath": "D:\\Training C#\\ExampleBasic\\Example_Basic\\Example_Basic.csproj",
+        "projectUniqueName": "D:\\Training C#\\Example_Basic\\Example_Basic_Form\\Example_Basic_Form\\Example_Basic_Form.csproj",
+        "projectName": "Example_Basic_Form",
+        "projectPath": "D:\\Training C#\\Example_Basic\\Example_Basic_Form\\Example_Basic_Form\\Example_Basic_Form.csproj",
         "packagesPath": "C:\\Users\\binhv\\.nuget\\packages\\",
-        "outputPath": "D:\\Training C#\\ExampleBasic\\Example_Basic\\obj\\",
+        "outputPath": "D:\\Training C#\\Example_Basic\\Example_Basic_Form\\Example_Basic_Form\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\binhv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,6 +54,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"

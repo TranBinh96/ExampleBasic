@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "grvGjftUm86RBM4tEQ08NL3zrNBkKo/If4So9mEhp8NrZ02Wju/QVR9QqBsxHIOOeG3MRlE1wWCaVx8Ywvy+eA==",
+  "dgSpecHash": "pcqG0FyRpkzD1eVa+gQGfZNfwJpjr0/3Y147KJDLuPvclS5nvtbYNbYMMOW+wkGcM4KZyS+Oe/aqS2c+Gxj99g==",
   "success": true,
-  "projectFilePath": "D:\\Training C#\\Example_Basic\\Example_Basic\\Example_Basic.csproj",
+  "projectFilePath": "D:\\Training C#\\ExampleBasic\\Example_Basic\\Example_Basic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

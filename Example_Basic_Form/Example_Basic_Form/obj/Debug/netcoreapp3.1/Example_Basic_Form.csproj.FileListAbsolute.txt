@@ -1,0 +1,16 @@
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\bin\Debug\netcoreapp3.1\Example_Basic_Form.exe
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\bin\Debug\netcoreapp3.1\Example_Basic_Form.deps.json
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\bin\Debug\netcoreapp3.1\Example_Basic_Form.runtimeconfig.json
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\bin\Debug\netcoreapp3.1\Example_Basic_Form.runtimeconfig.dev.json
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\bin\Debug\netcoreapp3.1\Example_Basic_Form.dll
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\bin\Debug\netcoreapp3.1\Example_Basic_Form.pdb
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\obj\Debug\netcoreapp3.1\Example_Basic_Form.csproj.AssemblyReference.cache
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\obj\Debug\netcoreapp3.1\Example_Basic_Form.Form1.resources
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\obj\Debug\netcoreapp3.1\Example_Basic_Form.csproj.GenerateResource.cache
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\obj\Debug\netcoreapp3.1\Example_Basic_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\obj\Debug\netcoreapp3.1\Example_Basic_Form.AssemblyInfoInputs.cache
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\obj\Debug\netcoreapp3.1\Example_Basic_Form.AssemblyInfo.cs
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\obj\Debug\netcoreapp3.1\Example_Basic_Form.csproj.CoreCompileInputs.cache
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\obj\Debug\netcoreapp3.1\Example_Basic_Form.dll
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\obj\Debug\netcoreapp3.1\Example_Basic_Form.pdb
+D:\Training C#\Example_Basic\Example_Basic_Form\Example_Basic_Form\obj\Debug\netcoreapp3.1\Example_Basic_Form.genruntimeconfig.cache
