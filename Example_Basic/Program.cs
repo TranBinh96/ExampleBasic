@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Example_Basic
 {
@@ -9,6 +10,7 @@ namespace Example_Basic
         {
             while (true)
             {
+               
                 menu();
                 Console.WriteLine("Do you want run ? (Y/N)");
                 string kt = Console.ReadLine();
@@ -33,11 +35,13 @@ namespace Example_Basic
 
         private static void menu()
         {
+            Encoding enc = new UTF8Encoding(true, true);
             Console.WriteLine("Do you choose program ?");
             Console.WriteLine("[1].Excuse_01");
             Console.WriteLine("[2].Can Bac Hai");
-            Console.WriteLine("[3].Tinh Tong");
+            Console.WriteLine("[3].Tinh_Tong");
             Console.WriteLine("[4].Bang Cuu Chuong");
+            Console.WriteLine("[5].In So Nguyen To");
             int choose = Int32.Parse(Console.ReadLine());
             Console.Clear();
             switch (choose)
@@ -58,8 +62,36 @@ namespace Example_Basic
                     Console.WriteLine("You're  choose [4].Bang Cuu Chuong:");
                     Excause_04();
                     break;
+                case 5:
+                    Console.WriteLine("You're  choose [5].In So Nguyen To:");
+                    Excause_05();
+                    break;
                 default: Console.WriteLine("Please choose Excuse");
                     break;
+            }
+        }
+
+        private static void Excause_05()
+        {
+            Console.WriteLine("Moi nhap gia tri : ");
+            int num=Int32.Parse(Console.ReadLine());
+            bool isPrime = true;
+            for (int i = 0; i <= num; i++)
+            {
+                for (int j = 2; j <= num; j++)
+                {
+                    if (i != j && i % j == 0)
+                    {
+                        isPrime = false;
+                        break;
+                    }
+                }
+                if (isPrime)
+                {
+                    Console.WriteLine ( "So "+ i +" La So Nguyen To" );
+                }
+
+                isPrime = true;
             }
         }
 
