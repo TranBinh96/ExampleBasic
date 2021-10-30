@@ -117,7 +117,7 @@ namespace Example_Basic
            Console.WriteLine("Moi ban nhap C : ");
            int c =Int32.Parse(Console.ReadLine());
            Console.Clear();
-           Console.WriteLine(a+"X2 +" +b+"X -" +c+"C");
+           Console.WriteLine(a+"X2 +" +b+"X +" +c+"C");
 
            float dealta = b * b - 4 * a * c;
            if (dealta < 0)
@@ -137,10 +137,6 @@ namespace Example_Basic
                Console.WriteLine("X1 = "+x1);
                Console.WriteLine("X1 = "+x2);
            }
-
-           
-
-
         }
 
         #endregion
